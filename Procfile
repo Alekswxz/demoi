@@ -1,0 +1,1 @@
+web: java-jar -demoi\src\main\java\com\Alekswxz\demoi-0.0.1-SNAPSHOT-jar.
